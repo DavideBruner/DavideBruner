@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Not there yet :P
+
 if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
-
 
 <p>
   <a href="https://github.com/thmsgbrt" target="_blank">
@@ -57,12 +58,16 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <br />
 
-Hi, i'm [Davide Bruner](https://dbruner.me/), a passionate self-taught full stack web developer and a freelance software engineer from Italy 🍕 
+Hi, I am [Davide Bruner](https://dbruner.me/), a passionate self-taught full stack web developer and a freelance software engineer from Italy 🍕 
 <img height="20" src="https://c.tenor.com/FoCsxk0SP2UAAAAC/italian-hand-italian-hands.gif">
 
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and div quality of the things I build.
+I went through different companies and company acquisitions in the last 8 years, and currently I'm working (remotely) as freelance consultant.
 
-I am also an open-source enthusiast and maintainer, especially in the Drupal community.
+My passion for software lies from the very beginning with dreaming up ideas and making them come true with great user interfaces, that's why I truly ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
+
+I enjoy participate in various hackathons (like [theBigHack](https://2021.thebighack.makerfairerome.eu/it/)) with my fellows 🏆 and code open-source projects in my spare time.
+
+I am an open-source enthusiast and maintainer, especially in the Drupal community.
           
 - 💻  Any freelance work? do [reach me](mailto:davidebruner@hotmail.it)
 - 💬  Ask me about anything, i am happy to help 🙂
@@ -103,4 +108,6 @@ I am also an open-source enthusiast and maintainer, especially in the Drupal com
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DavideBruner.DavideBruner)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruner">
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruner&layout=compact)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=DavideBruner&show_icons=true&theme=default)
