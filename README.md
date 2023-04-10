@@ -39,19 +39,19 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 -->
 <p align="left" style="padding: 15px 0">
-  <a align="left" href="https://www.linkedin.com/in/davide-bruner-5390a1a8">
+  <a align="left" href="https://www.linkedin.com/in/davide-bruner-5390a1a8" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="assets/linkedin.svg">
   </a>
-  <a align="left" href="https://www.npmjs.com/~DavideBruner">
+  <a align="left" href="https://www.npmjs.com/~davidebruner" target="_blank">
     <img alt="npm" title="npm" height="20" width="20" src="assets/npm.svg">
   </a>
-  <a align="left" href="https://discord.gg/DaveBru#7609">
+  <a align="left" href="https://discord.gg/DaveBru#7609" target="_blank">
     <img alt="Discord" title="Discord" height="20" width="20" src="assets/discord.svg">
   </a>
-  <a align="left" href="https://twitter.com/DavideBruner">
+  <a align="left" href="https://twitter.com/DavideBruner" target="_blank">
     <img alt="Twitter" title="Twitter" height="20" width="20" src="assets/twitter.svg">
   </a>
-  <a align="left" href="https://github.com/DavideBruner">
+  <a align="left" href="https://github.com/DavideBruner" target="_blank">
     <img alt="GitHub" title="GitHub" height="20" width="20" src="assets/github.svg">
   </a>
 </p>
