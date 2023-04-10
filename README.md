@@ -39,13 +39,13 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 -->
 <p align="left" style="padding: 15px 0">
-  <a align="left" href="https://www.linkedin.com/in/DavideBruner">
+  <a align="left" href="https://www.linkedin.com/in/davide-bruner-5390a1a8">
     <img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="assets/linkedin.svg">
   </a>
   <a align="left" href="https://www.npmjs.com/~DavideBruner">
     <img alt="npm" title="npm" height="20" width="20" src="assets/npm.svg">
   </a>
-  <a align="left" href="https://discord.gg/DavideBruner">
+  <a align="left" href="https://discord.gg/DaveBru#7609">
     <img alt="Discord" title="Discord" height="20" width="20" src="assets/discord.svg">
   </a>
   <a align="left" href="https://twitter.com/DavideBruner">
