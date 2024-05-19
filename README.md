@@ -58,16 +58,13 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <br />
 
-Hi, I am [Davide Bruner](https://dbruner.me/), a passionate self-taught full stack web developer and a freelance software engineer from Italy 🍕 
+Hi, I am [Davide Bruner](https://dbruner.me/), a passionate developer, freelance software engineer, and entrepreneur from Italy
 <img height="20" src="https://c.tenor.com/FoCsxk0SP2UAAAAC/italian-hand-italian-hands.gif">
 
-I went through different companies and company acquisitions in the last 8 years, and currently I'm working (remotely) as freelance consultant.
+My journey with technology began as a kid building small Flash video games. Over the past 8 years, I’ve honed my skills working with various companies and startups, navigating through multiple acquisitions. Today, I focus on freelance consulting while simultaneously founding and growing ventures in the Web3 and Web Games spaces.
+I have always been driven by the excitement of transforming ideas into reality through great user interfaces, which fuels my passion for ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
 
-My passion for software lies from the very beginning with dreaming up ideas and making them come true with great user interfaces, that's why I truly ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
-
-I enjoy participate in various hackathons (like [theBigHack](https://2021.thebighack.makerfairerome.eu/it/)) with my fellows 🏆 and code open-source projects in my spare time.
-
-I am an open-source enthusiast and maintainer, especially in the Drupal community.
+Participating in hackathons and contributing to open-source projects is something I thoroughly enjoy. I love being active in the open-source community whenever possible.
           
 - 💻  Any freelance work? do [reach me](mailto:davidebruner@hotmail.it)
 - 💬  Ask me about anything, i am happy to help 🙂
@@ -119,7 +116,6 @@ I am an open-source enthusiast and maintainer, especially in the Drupal communit
 
 <br />
 
-**stats:**  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DavideBruner.DavideBruner)
 
