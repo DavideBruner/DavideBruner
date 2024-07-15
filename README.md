@@ -116,6 +116,9 @@ Participating in hackathons and contributing to open-source projects is somethin
 
 <br />
 
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/DavideBruner/DavideBruner/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="DavideBruner" />
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DavideBruner.DavideBruner)
 
