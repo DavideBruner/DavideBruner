@@ -38,40 +38,42 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 </p>
 
 -->
-<p align="left" style="padding: 15px 0">
-  <a align="left" href="https://www.linkedin.com/in/davide-bruner-5390a1a8" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="assets/linkedin.svg">
-  </a>
-  <a align="left" href="https://www.npmjs.com/~davidebruner" target="_blank">
-    <img alt="npm" title="npm" height="20" width="20" src="assets/npm.svg">
-  </a>
-  <a align="left" href="https://discord.gg/DaveBru#7609" target="_blank">
-    <img alt="Discord" title="Discord" height="20" width="20" src="assets/discord.svg">
-  </a>
-  <a align="left" href="https://twitter.com/DavideBruner" target="_blank">
-    <img alt="Twitter" title="Twitter" height="20" width="20" src="assets/twitter.svg">
-  </a>
-  <a align="left" href="https://github.com/DavideBruner" target="_blank">
-    <img alt="GitHub" title="GitHub" height="20" width="20" src="assets/github.svg">
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/davide-bruner-5390a1a8"><img src="assets/linkedin.svg" width="20"/></a></td>
+    <td><a href="https://www.npmjs.com/~davidebruner"><img src="assets/npm.svg" width="20"/></a></td>
+    <td><a href="https://twitter.com/DavideBruner"><img src="assets/twitter.svg" width="20"/></a></td>
+    <td><a href="https://github.com/DavideBruner"><img src="assets/github.svg" width="20"/></a></td>
+  </tr>
+</table>
+<br />
+
+Hi, I’m [Davide Bruner](https://dbruner.me/) — a software engineer, entrepreneur, and creative developer from Italy 🇮🇹 <img height="20" src="https://c.tenor.com/FoCsxk0SP2UAAAAC/italian-hand-italian-hands.gif">
+
+I’ve been building things on the web since 2014, starting with small Flash games and interactive experiments as a kid. Over the years, I’ve worked with startups, agencies, and tech companies across multiple industries, contributing to products that later went through acquisitions and scaling phases.
+
+Today I focus on:
+- ⚡ Building interactive web experiences, multiplayer apps, and 3D platforms
+- 🎮 Web games, immersive interfaces, and real-time technologies
+- 🚀 Founding startups and experimenting with Web3 + educational tech
+- 🛠 Freelance consulting and full-stack product development
+
+I’m especially passionate about crafting beautiful user experiences and pushing the boundaries of what’s possible on the web through modern front-end engineering.
+
+I also enjoy hackathons, open-source projects, rapid prototyping, and collaborating with ambitious people building interesting things.
+
+- 💻 Open for freelance work & collaborations → [contact me](mailto:davidebruner@hotmail.it)
+- 💬 Happy to help with anything related to frontend, realtime apps, WebGL, Three.js, Next.js, or startups
 
 <br />
 
-Hi, I am [Davide Bruner](https://dbruner.me/), a passionate developer, freelance software engineer, and entrepreneur from Italy
-<img height="20" src="https://c.tenor.com/FoCsxk0SP2UAAAAC/italian-hand-italian-hands.gif">
+## 🚀 Featured Projects
 
-My journey with technology began as a kid building small Flash video games. Over the past 8 years, I’ve honed my skills working with various companies and startups, navigating through multiple acquisitions. Today, I focus on freelance consulting while simultaneously founding and growing ventures in the Web3 and Web Games spaces.
-I have always been driven by the excitement of transforming ideas into reality through great user interfaces, which fuels my passion for ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
+- 🎓 Edugate — immersive learning platform with 3D/VR experiences
+- 🎮 Multiplayer web experiences powered by LiveKit + Three.js
+- 🧠 Interactive educational tools and game-based learning systems
 
-Participating in hackathons and contributing to open-source projects is something I thoroughly enjoy. I love being active in the open-source community whenever possible.
-          
-- 💻  Any freelance work? do [reach me](mailto:davidebruner@hotmail.it)
-- 💬  Ask me about anything, i am happy to help 🙂
-
-<br />
-
-**experience:**  
+##
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -121,7 +123,7 @@ Participating in hackathons and contributing to open-source projects is somethin
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DavideBruner.DavideBruner)
-
+<!--
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruner&layout=compact)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=DavideBruner&show_icons=true&theme=default)
+-->
